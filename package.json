@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://GelamTOto.github.io/codespaces-project",
+  "homepage": "https://GleamTOto.github.io/codespaces-project",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://GelamTOto.github.io/codespaces-project/'",
+    "build-gh": "parcel build --public-url 'https://GleamTOto.github.io/codespaces-project/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
